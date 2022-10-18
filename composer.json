@@ -1,0 +1,15 @@
+{
+    "name": "tonmoy/php-mvc",
+    "authors": [
+        {
+            "name": "Tonmoy deb Chowdhury",
+            "email": "debtonmoy09@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "require": {}
+}
